@@ -53,7 +53,8 @@ How to run the code :
 # Screenshot---
 https://github.com/CodingwithAnkit-tech/Object-Detection-using-Python-Yolo-Algorithm/blob/main/Object-Detection-using-Python-Yolo-Algorithm.png
 
-
+# Demo video---  
+https://github.com/CodingwithAnkit-tech/Object-Detection-using-Python-Yolo-Algorithm/blob/main/Object-Detection-using-Python-Yolo-Algorithm.mp4
 
 
 
