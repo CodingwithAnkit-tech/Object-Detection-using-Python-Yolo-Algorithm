@@ -50,7 +50,8 @@ How to run the code :
           Here we use command for own project :
 	python main.py
 
-
+# Screenshot---
+https://github.com/CodingwithAnkit-tech/Object-Detection-using-Python-Yolo-Algorithm/blob/main/Object-Detection-using-Python-Yolo-Algorithm.png
 
 
 
