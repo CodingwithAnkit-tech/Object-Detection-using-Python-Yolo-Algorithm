@@ -5,6 +5,7 @@ To create a robust object detection system using OpenCV with the MobileNet-SSD  
 Description--
 This project integrates a pre-trained  MobileNet-SSD model to detect and  classify objects in real time. The system  uses COCO dataset classes and displays  detected objects with bounding boxes and confidence levels.
 
+
 Project Details--
 
 Real-Time Detection:Achieve real-time object detection in video streams or camera feeds with high accuracy and speed.
