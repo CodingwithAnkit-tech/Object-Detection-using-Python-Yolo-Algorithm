@@ -6,6 +6,7 @@ Description--
 This project integrates a pre-trained  MobileNet-SSD model to detect and  classify objects in real time. The system  uses COCO dataset classes and displays  detected objects with bounding boxes and confidence levels.
 
 Project Details--
+
 Real-Time Detection:Achieve real-time object detection in video streams or camera feeds with high accuracy and speed.
 
 Multi-Class Object Recognition:  Detect and classify multiple objects of  various classes simultaneously within a single frame, such as persons,  vehicles, animals, and everyday items.
