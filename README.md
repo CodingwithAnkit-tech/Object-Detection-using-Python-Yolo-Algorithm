@@ -2,6 +2,7 @@
 PROJECT OBJECTIVE--
 To create a robust object detection system using OpenCV with the MobileNet-SSD  model for real time recognition of objects from the COCO dataset, employing a  camera-based video feed for dynamic visualization.
 
+
 Description--
 This project integrates a pre-trained  MobileNet-SSD model to detect and  classify objects in real time. The system  uses COCO dataset classes and displays  detected objects with bounding boxes and confidence levels.
 
